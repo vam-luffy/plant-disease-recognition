@@ -1,2 +1,6 @@
-*.keras
-*.h5
+myenv/
+*.dll
+*.pyd
+__pycache__/
+.vscode/
+.DS_Store
