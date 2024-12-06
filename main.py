@@ -117,4 +117,3 @@ elif app_mode == "Disease Recognition":
                     st.error(f"An error occurred: {e}")
     else:
         st.info("Please upload an image to proceed.")
-
