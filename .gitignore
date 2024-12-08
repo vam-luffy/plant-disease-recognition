@@ -1,7 +1,9 @@
 myenv/
-*.dll
-*.pyd
-__pycache__/
-.vscode/
-.DS_Store
-myenv/
+.ipynb_checkpoints
+test/
+train/
+valid/
+.gitattributes
+*.ipynb
+*.keras
+*.json
